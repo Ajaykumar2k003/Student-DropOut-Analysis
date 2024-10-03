@@ -10,12 +10,11 @@ from sklearn.preprocessing import LabelEncoder
 
 # Set page title
 st.title("Student Dropout Analysis")
-
 # Load dataset
 @st.cache_data
 def load_data():
     # Load your data here. Change the path to your actual dataset file
-    data = pd.read_csv("D:\\Titan\\Projects\\Projects\\studentDropOutAnalysis\\dataset.csv")
+    data = pd.read_csv("dataset.csv")
     return data
 
 # Load the data
