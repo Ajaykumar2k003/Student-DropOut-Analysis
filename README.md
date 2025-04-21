@@ -32,7 +32,7 @@ The analysis highlighted significant factors affecting student dropouts, and the
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/TitanNatesan/StudentDropOutAnalysis.git 
+git clone https://github.com/Ajaykumar2k003/StudentDropOutAnalysis.git 
 cd StudentDropOutAnalysis
 ```
 
